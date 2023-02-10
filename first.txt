@@ -1,4 +1,5 @@
 helle git
 
 today is 10th feb.
-i m doing git class.
+i m doing git 
+ git status
