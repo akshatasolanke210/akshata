@@ -3,7 +3,8 @@ helle git
 today is 10th feb.
 i m doing git 
  git status
-
-
 askndfkgruisghk.
 askndfkgruisghk.askndfkgruisghk.
+today is 10th feb.
+i m doing git 
+ git status
